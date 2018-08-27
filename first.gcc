@@ -1,0 +1,9 @@
+#include<iostream.h>
+#include<math.h>
+void main()
+{
+int num;
+cout<<"enter the size of the problem"<<endl;
+cin>>num;
+int arr[20],
+}
